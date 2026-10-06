@@ -1,0 +1,15 @@
+---
+- hosts: all
+  tasks:
+    - name: task01 (apt-get install git)
+      apt:
+        name: git
+        state: present
+    - name: task02 (apt-get install tree)
+      apt:
+        name: tree
+        state: present
+    - name: task03 (apt-get install wget)
+      apt:
+        name: wget
+        state: present

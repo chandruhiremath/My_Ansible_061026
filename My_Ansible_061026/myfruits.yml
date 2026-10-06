@@ -1,0 +1,35 @@
+---
+- myfruits: 
+  - apple
+  - banana
+  - cherry
+
+- sweetfruits:
+  - mango
+  - pineapple
+  - watermelon
+
+- citrusfruits:
+  - orange
+  - lemon
+  - lime
+
+- tropicalfruits:
+  - papaya
+  - guava
+  - passionfruit
+
+- berries:
+  - strawberry
+  - blueberry
+  - raspberry
+
+- stonefruits:
+  - peach
+  - plum
+  - apricot
+
+- driedfruits:
+  - raisin
+  - date
+  - fig

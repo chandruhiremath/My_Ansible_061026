@@ -1,0 +1,20 @@
+---
+- mystudent:
+  - name: John Doe
+    age: 20
+    courses:
+      - Mathematics
+      - Physics
+      - Computer Science
+  - name: Jane Smith
+    age: 22
+    courses:
+      - Biology
+      - Chemistry
+      - Psychology
+  - name: Alice Johnson
+    age: 19
+    courses:
+      - Literature
+      - History
+      - Art
